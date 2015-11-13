@@ -1,0 +1,36 @@
+
+
+13/11/2015 15:48:06
+Adresse du serveur distant : 192.168.1.1:5556
+Commande AT : AT*REF=101,290718208
+
+
+13/11/2015 15:52:09
+Adresse du serveur distant : 192.168.1.1:5556
+Commande AT N°1 : AT*REF=101,290718208
+Commande AT N°2 : AT*REF=102,290717696
+Delai : 10 secondes
+
+
+13/11/2015 15:56:34
+Adresse du serveur distant : 192.168.1.1:5556
+Commande AT : AT*REF=101,290718208
+
+
+13/11/2015 16:14:26
+Adresse du serveur distant : 192.168.1.1:5556
+Commande AT N°1 : AT*REF=101,290718208
+Commande AT N°2 : AT*PCMD=102,1,0,0,0,-1082130432
+Delai : 5 secondes
+
+
+13/11/2015 16:14:55
+Adresse du serveur distant : 192.168.1.1:5556
+Commande AT : AT*REF=101,290718208
+
+
+13/11/2015 16:15:45
+Adresse du serveur distant : 192.168.1.1:5556
+Commande AT N°1 : AT*REF=101,290718208
+Commande AT N°2 : AT*PCMD=102,1,0,0,0,-1082130432
+Delai : 5 secondes

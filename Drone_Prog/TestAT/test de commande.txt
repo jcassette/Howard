@@ -1,0 +1,4 @@
+// decoller //  ./clientudp 192.168.1.1 5556 AT*REF=101,290718208 
+// tourner // 	 ./clientudp 192.168.1.1 5556  AT*PCMD=102,1,0,0,0,-1082130432 50 AT*PCMD=103,1,0,0,0,-1082130432  
+// aterrir //    ./clientudp 192.168.1.1 5556  AT*REF=104,290717696
+
