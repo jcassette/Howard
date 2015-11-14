@@ -1,3 +1,0 @@
-le programme clientudp permet de communiquer avec le drone en envoyant directement les commandes AT dans les paquets udp.
-Compilation : "gcc clientudp.c -o nom_exe -lm"
-utilisation : ./nom_exe 
